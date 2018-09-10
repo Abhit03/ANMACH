@@ -6,7 +6,7 @@
 #include<ctype.h>
 #include<math.h>
 #include<conio.h>
-
+//Class answer sets properties of the answer
 class answers
 {
 
