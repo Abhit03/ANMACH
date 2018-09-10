@@ -121,7 +121,7 @@ cin>>mchoice;
 
 			}
 
-                                       
+
                                         else
 			{
 			clrscr();
@@ -162,7 +162,7 @@ cin>>mchoice;
 
 		  cout<<"\nEnter what you you want to know or calculate->: ";
 		  gets(que);
-		  nofromstring(que,number1,number2);                       
+		  nofromstring(que,number1,number2);
 		  stringtowords(que,allword,wcount);
 		  functionextractor(allword,fun);
 		  symbolex(que,symbol);
@@ -277,7 +277,7 @@ cin>>mchoice;
 
 }                                                                                             //END
 
-
+//This is a function which converts string to words
  void stringtowords(char str[400],char words[20][20],int &count)                    //FUNCTIONS
 {
 	 int j,k,i,l;     int a=0,m=0,num=0;
