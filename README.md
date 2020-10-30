@@ -1,2 +1,3 @@
 # ANMACH
+## High-School final year Project
 This program “Anmach-An educational and computational engine” work like semantic search i.e. it seeks to improve  search accuracy by understanding searcher intent and the contextual meaning of terms to generate more relevant results.  This system considers various points including context of search, intent, variation of words, synonyms, generalized and  specialized queries, concept matching and natural language queries to provide relevant search results. In short It answers to the questions like definition and calculations asked in a natural language.
